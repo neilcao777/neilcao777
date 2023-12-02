@@ -18,7 +18,7 @@
 
 Hi I am Software Developer based in Vancouver Canada 🍁:
 
-- 🔭 I’m currently working on school graduates projects and personal Unity game project.
+- 🔭 I’m currently working on graduate projects and personal Unity game project.
 - 🌱 I’m currently learning utilizing AI into different frameworks such as Dotnet, JavaScript.
 - 📫 How to reach me: [caofangxin7@gmail.com](caofangxin7@gmail.com)
 - 🌎 Language: English, Mandarin, Japanese (Intermediate level)
