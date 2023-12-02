@@ -16,16 +16,14 @@
 
 ### 👨‍💻 About Me:
 
-Hi I am Software Developer from Canada 🍁:
+Hi I am Software Developer based in Vancouver Canada 🍁:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on school graduates projects and personal Unity game project.
+- 🌱 I’m currently learning utilizing AI into different frameworks such as Dotnet, JavaScript.
+- 👯 I’m looking forward to work with 
+- 📫 How to reach me: [caofangxin7@gmail.com](caofangxin7@gmail.com)
+- 🌎 Language: English, Mandarin, Japanese (Intermediate level)
+- #️⃣ Hashtags: #programmer, #easygoing, #lovepets, #lovetravel, #foodie, #gamer
 
 ---
 
@@ -58,6 +56,7 @@ Hi I am Software Developer from Canada 🍁:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
 
 ---
 
